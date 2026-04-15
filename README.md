@@ -31,12 +31,12 @@
 ### 🛠 后训练与对齐
 
 - [训练目标：指令精调（SFT）](docs/训练目标：指令精调（SFT）.md)
-- [偏好优化 RLHF 与 DPO](docs/偏好优化RLHF与DPO.md)
-- [后训练参数更新方式：部分参数微调（PEFT）](docs/后训练参数更新方式：部分参数微调（Parameter-Efficient Fine-Tuning，PEFT）.md)
+- [后训练参数更新方式：部分参数微调（PEFT）](<docs/后训练参数更新方式：部分参数微调（Parameter-Efficient Fine-Tuning，PEFT）.md>)
   - [重参数化 PEFT（Reparameterization PEFT）](<docs/后训练参数更新方式：部分参数微调（Parameter-Efficient Fine-Tuning，PEFT）/重参数化PEFT（Reparameterization PEFT）.md>)
   - [选择性 PEFT（Selective PEFT）](<docs/后训练参数更新方式：部分参数微调（Parameter-Efficient Fine-Tuning，PEFT）/选择性PEFT（Selective PEFT）.md>)
   - [附加式 PEFT（Additive PEFT）](<docs/后训练参数更新方式：部分参数微调（Parameter-Efficient Fine-Tuning，PEFT）/附加式PEFT (Additive PEFT).md>)
   - [提示式 PEFT（Prompt PEFT）](<docs/后训练参数更新方式：部分参数微调（Parameter-Efficient Fine-Tuning，PEFT）/提示式PEFT (Prompt PEFT).md>)
+- [偏好优化 RLHF 与 DPO](docs/偏好优化RLHF与DPO.md)
 
 ### 🧪 训练流程
 
@@ -53,4 +53,3 @@
 
 - [happy-llm](https://github.com/datawhalechina/happy-llm)：偏原理和实践入门，适合先建立大语言模型的整体认知
 - [self-llm](https://github.com/datawhalechina/self-llm)：偏工程实践和本地部署，适合做微调、推理和环境搭建时参考
-
